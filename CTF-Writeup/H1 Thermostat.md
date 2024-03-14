@@ -1,5 +1,7 @@
 Primeiramente, ao entrar no CTF, ele mostra uma página de carregamento que nunca carrega o APK. Porém, ao olhar o código-fonte da página, percebi o request de uma URL para assim montar o APK. Pude baixá-lo e, assim, procurei uma maneira de abri-lo. Fiz isso com o Android Studio, com o qual pude abrir o código-fonte do APK.
 
+!(/Images/thermo1.png)
+
 Ao analisar corretamente, decidi verificar a pasta "java", onde encontrei uma subpasta chamada "com.hacker101". Assim que a abri, pude ver um arquivo chamado "PayloadsRequests".
 
 Quando entrei nesse arquivo e desci um pouco, encontrei uma flag.
