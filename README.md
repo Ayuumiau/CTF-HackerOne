@@ -2,6 +2,7 @@
 Write-up and vulnerability search
 
 ![grupo hacker101](/Images/group.png)
+![print](/Images/terceira.png)
 ![meu nome no grupo](/Images/eu.png)
 
 Nome completo: Victoria Oliveira Ventrilho
